@@ -1,6 +1,6 @@
 API REST of Data Scraping
 
-This project is a basic API REST. The database was created with Mongo Atlas and the server with EXPRESS. It is a simulation of a laptop database scraped from the web https://www.powerplanetonline.com/es/portatiles . The data extracted from this page are the title, the price and the image, which are incorporated into the model that has the database, this is; Laptop.
+This project is a basic API REST. The database was created with Mongo Atlas and the server with EXPRESS. It is a simulation of a laptop database scraped from the web https://www.worten.pt/informatica-e-acessorios/computadores/computadores-portateis . The data extracted from this page are the title, the price and the image, which are incorporated into the model that has the database, this is; Laptop.
 
 ## Technologies
 
